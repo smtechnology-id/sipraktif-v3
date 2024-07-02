@@ -1,0 +1,30 @@
+Date: 09-02-2023
+Version 1.0.4
+======================================== 
+1. Update: Fonts Family
+
+
+Date: 02-11-2022
+Version 1.0.3
+======================================== 
+1. Update: Latest Bootstrap v5.2.2
+
+
+Date: 11 July 21
+Version 1.0.2 
+======================================== 
+1. Update: From Bootstrap v5.0.0-beta1 to Bootstrap v5.0.2 Update
+
+
+
+Date: 06 July 21
+Version 1.0.1 
+======================================== 
+1. Update: Latest Jquery Plugins Update.
+
+
+
+Date: 14 January 21
+Version: 1.0.0
+======================================== 
+1. Initial release
